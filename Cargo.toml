@@ -1,0 +1,12 @@
+[package]
+name = "simple_particle"
+version = "0.1.0"
+authors = ""
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+
+[dependencies.raylib]
+git = "https://github.com/AregevDev/raylib-rs"
+branch = "libraries"
