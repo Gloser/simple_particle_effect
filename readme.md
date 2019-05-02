@@ -10,10 +10,10 @@ Ein einfacher Partikel-Effekt geschrieben in Rust. Als Vorlage/Inspiration dient
 
 
 ### additional information ###
-Coding Challenge: https://youtu.be/UcdigVaIYAk
-rust-lang : https://www.rust-lang.org/
-raylib: https://www.raylib.com/
-rust-bindings: https://github.com/AregevDev/raylib-rs
+Coding Challenge: https://youtu.be/UcdigVaIYAk<br/>
+rust-lang : https://www.rust-lang.org/<br/>
+raylib: https://www.raylib.com/<br/>
+rust-bindings: https://github.com/AregevDev/raylib-rs<br/>
 
 
 ## CREDITS ##
